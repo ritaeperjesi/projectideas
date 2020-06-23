@@ -42,6 +42,9 @@ I'm not a hundred person sure how this would look like, I might come up with oth
 ![stone people](kiril.jpg)
 ![swimming people](uszi.jpg)
 
+## 2nd semester closing project
+### the Harry Potter book
+Nice memories 
 
 
 
