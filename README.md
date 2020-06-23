@@ -39,6 +39,8 @@ I'm thinking about using these gifs, and creating a little game/simulation of th
 
 I'm not a hundred person sure how this would look like, I might come up with other interaction ideas, so this concept has more space to improve.
 
+![stone people](http://url/to/kiril.jpg)
+
 
 
 
