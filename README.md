@@ -44,8 +44,22 @@ I'm not a hundred person sure how this would look like, I might come up with oth
 
 ## 2nd semester closing project
 ### the Harry Potter book
-Nice memories 
+Moving images are nice, because it seems like those moments captured are still alive.
+A few years ago I wanted to make a collection of gifs with my nice memories with ex-boyfriends, and put them in the shape of a real book. Luckily I'm not invested anymore in thinking too much about the past, but I'm still excited about turning the pages of a real empty book, which comes alive. This can give a shape for several projects in the future, for example our previous VJ project, when we have been sending each other 1 video and an instruction with other artists, like a letter chain, or to collaborations between a video artist and a writer. Or the Big Book project, that is forming now with my friend, which is based on the Hungarian saying: as it is written in the big book, which means you are doing your life the "proper" way: studying, working, getting married, having kids. These things meanwhile got more complicated, the old normal is not necessarily the new normal, but we are measuring ourselves according to the old norms. For this, an interactive new real life book would be deifinitely a nice take-on.
+#### Plan:
+1. Take an empty real life book.
+2. write the page numbers in it with infrared pen. So a webcam/kinect (?) can see it, humans can't. 
+https://maxmax.com/shopper/product/cid-15272
+3. Set up a webcam/kinect to see which page is open. 
+4. Openframeworks (?) - computer vision? teaching with machine learning? decide which sign it is > load the corresponding page/video 
+I can imagine that numbers are not the easiestly understandable for a computer. 
+Or is it easier in P5?
+5. map the projection on the book nicely. (I have a small and cute projector)
+6. Create content for the book.
 
+EXTRA:
+It would be also nice, if the book has some real life printed pages mixing with the projections. At the same time, if it is completely empty, it can be reused for different contents. 
 
-
+## 2nd PGS
+clouds.
 
