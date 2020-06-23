@@ -59,6 +59,7 @@ Or is it easier in P5?
 
 EXTRA:
 It would be also nice, if the book has some real life printed pages mixing with the projections. At the same time, if it is completely empty, it can be reused for different contents. 
+An other direction is to go is to make the book really interactive, not only made for reading.
 
 ## 2nd PGS
 clouds.
